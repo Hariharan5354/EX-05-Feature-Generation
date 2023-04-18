@@ -90,3 +90,13 @@ df.head(10)
 ```
 
 # OUTPUT
+
+Data.csv
+
+Encoding.csv
+
+Titanic.csv
+
+#RESULT:
+
+Thus the program for Feature Generation is executed successfully.
