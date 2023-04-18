@@ -92,11 +92,43 @@ df.head(10)
 # OUTPUT
 
 Data.csv
-![]()
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/01.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/02.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/03.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/04.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/05.png)
+
 
 Encoding.csv
 
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/06.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/07.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/08.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/09.png)
+
+
 Titanic.csv
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/10.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/11.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/12.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/13.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/14.png)
+
+![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/15.png)
+
 
 #RESULT:
 
