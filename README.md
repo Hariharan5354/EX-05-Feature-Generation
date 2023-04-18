@@ -91,7 +91,7 @@ df.head(10)
 
 # OUTPUT
 
-Data.csv
+#Data.csv
 
 ![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/01.png)
 
@@ -104,7 +104,7 @@ Data.csv
 ![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/05.png)
 
 
-Encoding.csv
+#Encoding.csv
 
 ![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/06.png)
 
@@ -115,7 +115,7 @@ Encoding.csv
 ![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/09.png)
 
 
-Titanic.csv
+#Titanic.csv
 
 ![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/10.png)
 
@@ -130,6 +130,6 @@ Titanic.csv
 ![](https://github.com/Hariharan5354/EX-05-Feature-Generation/blob/main/15.png)
 
 
-#RESULT:
+#Result
 
 Thus the program for Feature Generation is executed successfully.
