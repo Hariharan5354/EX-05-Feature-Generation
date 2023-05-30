@@ -4,6 +4,12 @@
 ## AIM
 To read the given data and perform Feature Generation process and save the data to a file. 
 
+## DATE:
+
+GITHUB LINK:https://github.com/Hariharan5354/EX-05-Feature-Generation.git
+
+COLAB LINK:https://colab.research.google.com/drive/1jBZFmnie80cjKFdR4HzQt2i6gzeNvOvo?usp=sharing
+
 # Explanation
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
  
